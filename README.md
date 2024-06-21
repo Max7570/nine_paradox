@@ -1,8 +1,5 @@
 <html>
     <head>
-        <title>
-            мой сайт
-        </title>
         <meta charset="utf-8">
         <meta name="description" content="решение парадокса девяток, solving of nine paradox">
         <link rel="shortcut icon" href="foto.png">
